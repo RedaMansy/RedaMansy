@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a goodreads scraper to download e-books](https://github.com/RedaMansy/goodreads-ebook-downloader)
 
-- 🌱 I’m currently learning **app development with Flutter**
+- 🌱 I’m learning how to **develop apps with Flutter**
 
 - 📫 How to reach me **mansyreda@outlook.com**
 
