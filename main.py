@@ -19,7 +19,7 @@ def edit_readme(days):
         data = readmefile.readlines()
 
     # print(data[11])
-    data[11] = f"⚡ Fun fact **I've been journaling every day for {days} days straight**\n"
+    data[11] = f"- ⚡ Fun fact **I've been journaling every day for {days} days straight**\n"
 
     with open("README.md", "w") as readmefile:
         readmefile.writelines(data)
