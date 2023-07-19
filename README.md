@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Reda</h1>
-<h3 align="left">a software developer</h3>
+<h3 align="left">I'm a software developer</h3>
 
 - 🔭 I’m currently working on [a goodreads scraper to download e-books](https://github.com/RedaMansy/goodreads-ebook-downloader)
 
