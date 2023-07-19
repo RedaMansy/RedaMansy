@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Reda</h1>
 <h3 align="center">a software developer</h3>
 
-- 🔭 I’m currently working on [my portfolio website](https://github.com/RedaMansy/PortfolioSite)
+- 🔭 I’m currently working on [a goodreads scraper to download e-books](https://github.com/RedaMansy/goodreads-ebook-downloader)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **app development with Flutter**
 
 - 📫 How to reach me **mansyreda@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/redamansy/](https://www.linkedin.com/in/redamansy/)
+
+- ⚡ Fun fact **I've been journaling every day for 1833 days straight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
