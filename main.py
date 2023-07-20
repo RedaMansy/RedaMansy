@@ -2,6 +2,10 @@ import datetime
 from datetime import date
 import enum
 import re
+import os
+
+
+
 
 def delta_days():
 
@@ -26,6 +30,10 @@ def edit_readme(days):
 
 edit_readme(days)
 
+try:
+    ACTIONS_SECRET = os.environ["ACTIONS_SECRET"]
+except KeyError:
+    ACTIONS_SECRET = "Token not available!"
 
 
 
